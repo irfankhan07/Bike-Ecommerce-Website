@@ -616,7 +616,7 @@ footer .social_meadia i {
   text-decoration: none;
 }
 .copyright-legal p a:hover{
-  color: #FAF9F6 !important;
+  color: grey !important;
 }
 /*Footer Bottom copyright Legal Section style End*/
 @media only screen and (max-width:768px) {
